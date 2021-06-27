@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>52051372692-k3c48kpvr1rtrch558a6c1kh8viarbkg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.52051372692-k3c48kpvr1rtrch558a6c1kh8viarbkg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>52051372692-0c6gjlh9r9san6n2q503i366u02l7kfb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC2VZ_WvbS5nWidb62IQ0Yxu3vMGQF8In0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>52051372692</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.greatdanicLogistics.firebaseexample</string>
+	<key>PROJECT_ID</key>
+	<string>great-danic-logistics</string>
+	<key>STORAGE_BUCKET</key>
+	<string>great-danic-logistics.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:52051372692:ios:a72fc9009887024df2a281</string>
+</dict>
+</plist>

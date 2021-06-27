@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "52051372692",
+    "project_id": "great-danic-logistics",
+    "storage_bucket": "great-danic-logistics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52051372692:android:d1b2889080d903f5f2a281",
+        "android_client_info": {
+          "package_name": "com.example.greatdanic_logistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52051372692-0c6gjlh9r9san6n2q503i366u02l7kfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.greatdanic_logistics",
+            "certificate_hash": "e6be70a0a03dda25023b32823e745bf53e81a0e4"
+          }
+        },
+        {
+          "client_id": "52051372692-7tu9r8ilfd7nnd8err88oehd29nh6cv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbGDDac2uxO9pHaF-5CKkkzFwDj2hBXOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52051372692-7tu9r8ilfd7nnd8err88oehd29nh6cv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
